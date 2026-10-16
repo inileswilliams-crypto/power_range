@@ -1,0 +1,17 @@
+/* HEADER & HELMET STYLING */
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 20px;
+}
+
+header {
+  margin-bottom: 20px;
+}
+
+#ranger-helmet {
+  display: block;
+  margin: 10px auto;
+}
